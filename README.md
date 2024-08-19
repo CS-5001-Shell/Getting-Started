@@ -6,12 +6,6 @@ The topics you will practice and apply in this assignment include algorithm desi
 
 <hr/>
 
-## Part 0 - Join the Class Microsoft Team
-
-Join the Microsoft Team that we will use for communication in this class.
-
-Make sure you keep a close eye on this team. All announcements will be posted here. This is also where you will go to ask questions about your assignments. I encourage you to use this liberally!
-
 ## Part 1 - Set up your Python environment
 
 Download the Python development environment version 3.12.5 or greater from [https://www.python.org/downloads/](https://www.python.org/downloads/).By default, Python installs the Integrated Development and Learning Environment (IDLE) that can be used to do all of the development in this course. However, you are free to download another Integrated Development Environment (IDE) if you would prefer a different one. 
