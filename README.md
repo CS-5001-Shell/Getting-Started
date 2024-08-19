@@ -1,6 +1,6 @@
 # Lab 1 - Getting Started
 
-In this assignment, you will set up your Python development environment and submit your solution vit GitHub. Here are a few additional notes regarding setup of your environment: [https://github.com/CS-5001-Fall-2024/Resources/tree/main/guides](https://github.com/CS-5001-Fall-2024/Resources/tree/main/guides)
+In this assignment, you will set up your Python development environment and submit your solution vit GitHub. Here are a few additional notes regarding setup of your environment: [https://github.com/CS-5001-Shell/Resources/blob/main/guides/getting_started.md](https://github.com/CS-5001-Shell/Resources/blob/main/guides/getting_started.md)
 
 The topics you will practice and apply in this assignment include algorithm design, expressions, and variables.
 
