@@ -1,18 +1,14 @@
 # Lab 1 - Getting Started
 
-### Due - Monday, September 9, 11:59pm
-<hr/>
-
 In this assignment, you will set up your Python development environment and submit your solution vit GitHub. Here are a few additional notes regarding setup of your environment: [https://github.com/CS-5001-Fall-2024/Resources/tree/main/guides](https://github.com/CS-5001-Fall-2024/Resources/tree/main/guides)
 
 The topics you will practice and apply in this assignment include algorithm design, expressions, and variables.
 
 <hr/>
 
-## Part 0 - Join the CS 5001 - OAK Team
-#### 5 points
+## Part 0 - Join the Class Microsoft Team
 
-Join the Microsoft Team that we will use for communication in this class via this link: [CS 5001 - OAK - Fall 2024](https://teams.microsoft.com/l/team/19%3A9nlYBJIFq3KpzcLYnx-qEezgyGMYCAnvlTI-eppIXh81%40thread.tacv2/conversations?groupId=28ae1c9a-c508-4f79-9854-ec6d06de5211&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e70)
+Join the Microsoft Team that we will use for communication in this class.
 
 Make sure you keep a close eye on this team. All announcements will be posted here. This is also where you will go to ask questions about your assignments. I encourage you to use this liberally!
 
@@ -24,20 +20,11 @@ All of the demonstrations in class will be on a Mac using [Sublime Text](https:/
 
 ## Part 2 - Set up GitHub
 
-Make sure you have created a new user account at [GitHub.com](https://github.com/) and included your username in the Background Survey. Set up your computer to access your user account on GitHub. There are *many* ways to upload your work to GitHub. You will eventually need to learn to use git from the [command line](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line). [GitHub Desktop](https://github.com/apps/desktop) is, however, a bit more intuitive. You may wish to use it for your assignments. Both will be demonstrated in class.
+Make sure you have created a new user account at [GitHub.com](https://github.com/) and included your username in the Background Survey. 
 
-## Part 3 - Clone the Lab 1 repository
+Set up your computer to access your user account on GitHub. There are *many* ways to upload your work to GitHub. You will eventually need to learn to use git from the [command line](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line). [GitHub Desktop](https://github.com/apps/desktop) is, however, a bit more intuitive. You may wish to use it for your assignments. Both will be demonstrated in class.
 
-Create a new Lab 1 repository by accepting the assignment here:
-[https://classroom.github.com/a/YZQ2xcYa](https://classroom.github.com/a/YZQ2xcYa)
-
-This will create a repository that contains four Python files that have starter code for the programming portion of this assignment.
-
-Use GitHub Desktop or your git tool of choice to clone or make a copy of the repository on your local computer.
-
-## Part 4 - Complete the code described in the four starter Python files in your Lab 1 repository
-
-#### 40 points - 10 points per question
+## Part 3 - Complete the code described in the four starter Python files in your Lab 1 repository
 
 **Exercise 1:** Print a house.
 
