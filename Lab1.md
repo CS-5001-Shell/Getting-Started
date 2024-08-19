@@ -35,13 +35,16 @@ This will create a repository that contains four Python files that have starter 
 
 Use GitHub Desktop or your git tool of choice to clone or make a copy of the repository on your local computer.
 
-## Part 4 -- Complete the code described in the four starter Python files in your Lab 1 repository
+## Part 4 - Complete the code described in the four starter Python files in your Lab 1 repository
 
 #### 40 points - 10 points per question
 
 **Exercise 1:** Print a house.
+
 **Exercise 2:** Use variables to store and print your favorite song lyrics.
+
 **Exercise 3:** Calculate the difference, product, and average of two numbers.
+
 **Exercise 4:** Calculate the time an alarm will expire.
 
 ## Assignment Submission
