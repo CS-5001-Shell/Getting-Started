@@ -29,7 +29,7 @@ Make sure you have created a new user account at [GitHub.com](https://github.com
 ## Part 3 - Clone the Lab 1 repository
 
 Create a new Lab 1 repository by accepting the assignment here:
-[]()
+[https://classroom.github.com/a/YZQ2xcYa](https://classroom.github.com/a/YZQ2xcYa)
 
 This will create a repository that contains four Python files that have starter code for the programming portion of this assignment.
 
