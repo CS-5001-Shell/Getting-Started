@@ -36,12 +36,8 @@ Step 1 - *Stage Changes*: Select the Source Control icon in the VSCode left menu
 
 Step 2 - Commit Message: In the text box that says Message enter a meaningful message that describes the change you just completed.
 
-Step 3 - *Commit & Push*: Select the down arrow in the blue box that says Commit. Choose 
+Step 3 - *Commit & Push*: Select the down arrow in the blue box that says Commit. Choose *Commit & Push*.
 
-
-
-   - Enter a meaningful commit message.
-   - *Commit & Push* your changes.
-   - Visit the repository on GitHub to confirm that your changes were uploaded successfully
+Step 4 - Verify: Visit the repository on GitHub to confirm that your changes were uploaded successfully
 
 *Congratulations! You have just completed your first computer science assignment!*
